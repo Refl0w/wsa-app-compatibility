@@ -240,6 +240,7 @@ wsa://com.android.settings
 | QooApp | 8.3.3 | ✅ |||
 | QPython 3L | 3.0.0 | ✅ | | |
 | QQ | 8.2.11 | ✅ |||
+| Ragnarok Mobile | 🆖 |||
 | Rayman Classic | 1.0.1 | ✅ |||
 | Reddit | | ✅ |||
 | Relay | 10.0.378 | ✅ |||
